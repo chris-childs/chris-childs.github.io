@@ -3,3 +3,9 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-merlot
+collections:
+  blog posts
+  fiction
+  non-fiction
+  art
+  music
