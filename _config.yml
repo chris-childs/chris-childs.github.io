@@ -4,8 +4,13 @@ permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-merlot
 collections:
-  blog posts
-  fiction
-  non-fiction
-  art
-  music
+  blog posts:
+     output: true
+  fiction:
+    output: true
+  non-fiction:
+    output: true
+  art:
+    output: true
+  music:
+    output: true
