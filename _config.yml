@@ -14,3 +14,9 @@ collections:
     output: true
   music:
     output: true
+
+defaults:
+  - scope:
+      type: fiction
+    values:
+      layout: fiction
