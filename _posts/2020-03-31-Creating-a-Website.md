@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blog Post, Posted Here for Blog Consumption"
+title: "Creating a Website"
 date: 2020-03-31
 ---
 
